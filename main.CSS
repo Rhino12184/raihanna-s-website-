@@ -1,0 +1,56 @@
+*{
+   font-style: unset
+     ; 
+   }
+* {
+    box-sizing: border-box;
+    padding: 5px 50px 50px 50px;
+   }
+
+
+.center {
+    text-align: center;
+   }
+   
+   .large {
+    font-size: 50px;
+   }
+   
+   *
+h1 {
+    color:
+    rgb(124, 39, 33);
+     font-size: 60px ;
+   }
+*
+   h2{
+       color:rgb(100, 29, 24);
+       font-size: 40;
+   }
+
+   h3{
+     color:rgb(124, 30, 23) ;   
+     font-size: 40;
+   }
+
+   h4{
+     color:rgb(124, 30, 23) ;   
+     font-size: 40;  
+   }
+
+
+ * {
+    background-color:#EAE7DC 
+    ;
+    font-size: 20px;
+   }
+*
+   p { color :rgb(124, 30, 23) ;   
+    font-size: 30; 
+
+   }
+
+   li {color :rgb(124, 30, 23) ;   
+    font-size: 30; 
+
+   }
